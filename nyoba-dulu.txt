@@ -1,4 +1,4 @@
 kegiatan
 - tugas
-- ngaji
 - bikin web
+- bikin game
