@@ -2,7 +2,9 @@ RENCANA
 
 -main game
  *pb
+  ^mabar
  *cd
+  ^mabar
 -jalan jalan
  *taman
- -noton film
+ -nonton film
