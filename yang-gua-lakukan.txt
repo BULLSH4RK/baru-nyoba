@@ -7,3 +7,4 @@ RENCANA
   ^mabar
 -jalan jalan
  *taman
+ -nonton film
