@@ -1,4 +1,7 @@
 RENCANA
 
--main game 
+-main game
+ *pb
+ *cd
 -jalan jalan
+ *taman
