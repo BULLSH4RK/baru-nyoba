@@ -1,0 +1,7 @@
+RENCANA
+
+-main game
+ *pb
+ *cd
+-jalan jalan
+ *taman
